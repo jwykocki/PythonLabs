@@ -1,0 +1,37 @@
+Number of elements: 50
+
+Sorting: insertion_sort
+A: Array sorted in 10.7 ms.Number of operations: 7350.
+S: Array sorted in 0.1 ms.Number of operations: 98.
+R: Array sorted in 5.4 ms.Number of operations: 3730.
+T: Array sorted in 3.2 ms.Number of operations: 2254.
+
+Sorting: bubble_sort
+A: Array sorted in 10.9 ms.Number of operations: 7350.
+S: Array sorted in 3.5 ms.Number of operations: 2450.
+R: Array sorted in 8.8 ms.Number of operations: 4878.
+T: Array sorted in 6.5 ms.Number of operations: 3696.
+
+Sorting: shell_sort
+A: Array sorted in 1.3 ms.Number of operations: 879.
+S: Array sorted in 0.9 ms.Number of operations: 609.
+R: Array sorted in 1.6 ms.Number of operations: 1095.
+T: Array sorted in 2.1 ms.Number of operations: 663.
+
+Sorting: merge_sort
+A: Array sorted in 1.2 ms.Number of operations: 572.
+S: Array sorted in 1.1 ms.Number of operations: 572.
+R: Array sorted in 1.1 ms.Number of operations: 572.
+T: Array sorted in 0.9 ms.Number of operations: 544.
+
+Sorting: quick_sort
+A: Array sorted in 6.9 ms.Number of operations: 3870.
+S: Array sorted in 12.0 ms.Number of operations: 6370.
+R: Array sorted in 1.5 ms.Number of operations: 1030.
+T: Array sorted in 3.3 ms.Number of operations: 2230.
+
+Sorting: tim_sort
+A: Array sorted in 7.1 ms.Number of operations: 3946.
+S: Array sorted in 0.3 ms.Number of operations: 148.
+R: Array sorted in 3.5 ms.Number of operations: 2142.
+T: Array sorted in 1.4 ms.Number of operations: 862.
